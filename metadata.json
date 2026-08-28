@@ -1,0 +1,6 @@
+{
+  "name": "Lamborghini Showcase & Specs",
+  "description": "Interactive 3D visualizer and specifications guide for the Lamborghini Temerario, Urus, and Revuelto featuring price, seats, colors, engines, and side-by-side tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
